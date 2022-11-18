@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ethan</h1>
 <h3 align="center">Engineering student in network and IoT field</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ethanandreas" alt="ethanandreas" /></a> </p>
-
 - 🔭 I’m currently working on **network's frame analyzing**
 
-- 🌱 I’m currently learning **C# and bash for network infrastructure**
+- 🌱 I’m currently learning **network design, embedded system and compilation**
 
-- 👯 I’m looking to collaborate on **OS development**
+- 👯 I’m looking to collaborate on **OS design and network infrastructure**
 
-- 🤝 I’m looking for help with **to learn system administrator job**
+- 🤝 I’m looking for help with **the learning of system administrator job**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EthanAndreas](https://github.com/EthanAndreas)
 
