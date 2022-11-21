@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ethan</h1>
+<h1 align="center">Hi, I'm Ethan</h1>
 <h3 align="center">Engineering student in network and IoT field</h3>
 
 - 🚧 I’m currently working **on a network's frame analyzer and on a compiler from bash to assembler**
 
-- 🏫 I’m currently learning **embedded system and network infrastructure**
+- 🏢 I’m currently learning **embedded system and network infrastructure**
 
 - 💻 I’m looking to collaborate on **OS design**
 
@@ -15,7 +15,7 @@
 
 - 📃 Know about my experiences [https://www.linkedin.com/in/ethan-huret-66b418230/](https://www.linkedin.com/in/ethan-huret-66b418230/)
 
-- 🌊 I'm passionate **about oceans and surfing, my goals are to focus my professional path around this passion**
+- 🌊 I'm passionate about **oceans and surfing**, my goals are to **focus my professional path around this passion**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
