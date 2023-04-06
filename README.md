@@ -1,5 +1,4 @@
-<h1 align="left">Hi 👋, I'm Ethan</h1>
-<h3 align="left">Engineering student in network and IoT field</h3>
+<h3 align="left">😁 Engineering student in network and IoT field</h3>
 
 - 🚧 I’m currently working on the development of a **lightweigth IP-based communication between field devices**
 
