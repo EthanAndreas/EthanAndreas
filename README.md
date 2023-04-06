@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ethan</h1>
 <h3 align="center">Engineering student in network and IoT field</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ethanandreas" alt="ethanandreas" /></a> </p>
-
 - 🚧 I’m currently working on the development of a **lightweigth IP-based communication between field devices**
 
 - 🏢 I’m currently learning **embedded system** and **network infrastructure**
@@ -49,6 +47,8 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ethanandreas" alt="ethanandreas" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethanandreas&show_icons=true&locale=en&layout=compact" alt="ethanandreas" /></p>
 
