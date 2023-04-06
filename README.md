@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/EthanAndreas](https://github.com/EthanAndreas)
 
-- 📫 How to reach me **ethanhuret27@outlook.com**
+- 📫 How to reach me **ethanhuret27@outlook.com** or **ethan.huret@etu.unistra.fr**
 
 - 📃 Know about my experiences [https://www.linkedin.com/in/ethan-huret-66b418230/](https://www.linkedin.com/in/ethan-huret-66b418230/)
 
