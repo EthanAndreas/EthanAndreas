@@ -48,8 +48,10 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ethanandreas" alt="ethanandreas" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethanandreas&show_icons=true&locale=en&layout=compact" alt="ethanandreas" /></p>
-
+ <div>
+  <a href="https://github.com/ethanandreas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThomasByr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasByr&layout=compact&langs_count=16&theme=github_dark"/>
+</div>
+  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ethanandreas&show_icons=true&locale=en" alt="ethanandreas" /></p>
