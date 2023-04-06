@@ -1,4 +1,4 @@
-<h1 align="left">Hi i am Ethan Huret</h1>
+<h1 align="left">Hi👋, i'm Ethan Huret</h1>
 <h3 align="left">😁 Engineering student in network and IoT field</h3>
 
 - 🚧 I’m currently working on the development of a **lightweigth IP-based communication between field devices**
