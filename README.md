@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ethanhuret27@outlook.com** or **ethan.huret@etu.unistra.fr**
 
-- 📃 Know about my experiences [https://www.linkedin.com/in/ethan-huret-66b418230/](https://www.linkedin.com/in/ethan-huret-66b418230/)
+- 📃 Know about my experiences [https://www.linkedin.com/in/ethan-huret/](https://www.linkedin.com/in/ethan-huret/)
 
 - 🌊 I'm passionate about **oceans and surfing**, my goals are to **focus my professional path around this passion**
 <br>
