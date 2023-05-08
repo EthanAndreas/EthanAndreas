@@ -50,6 +50,6 @@
 
 <h3 align="left">📈 Some statistics:</h3>
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethanandreas&show_icons=true&locale=en&layout=compact&theme=github_dark&include_all_commits=true" alt="ethanandreas" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ethanandreas&show_icons=true&locale=en&theme=github_dark" alt="ethanandreas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethanandreas&show_icons=true&locale=en&layout=compact" alt="ethanandreas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ethanandreas&show_icons=true&locale=en" alt="ethanandreas" /></p>
 </div>
