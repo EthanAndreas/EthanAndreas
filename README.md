@@ -51,5 +51,5 @@
 <h3 align="left">📈 Some statistics:</h3>
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EthanAndreas&show_icons=true&locale=en&layout=compact&langs_count=16&theme=github_dark" alt="EthanAndreas" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EthanAndreas&show_icons=true&locale=en&theme=github_dark&include_all_commits=true" alt="EthanAndreas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EthanAndreas&show_icons=true&locale=en&theme=github_dark" alt="EthanAndreas" /></p>
 </div
