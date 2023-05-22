@@ -3,13 +3,9 @@
 
 - 🚧 I’m currently working on the development of a **lightweigth IP-based communication between field devices**
 
-- 🏢 I’m currently learning **embedded system** and **network infrastructure**
+- 🏢 I’m currently learning **embedded system**, **network infrastructure** and "cybersecurity"
 
-- 💻 I’m looking to collaborate on **embedded or operating system design**
-
-- 📡 I’m looking for help to **learn encryption of communication between field devices**
-
-- 👨‍💻 All of my projects are available at [https://github.com/EthanAndreas](https://github.com/EthanAndreas)
+- 💻 I’m looking to collaborate on **operating system design**
 
 - 📫 How to reach me **ethanhuret27@outlook.com** or **ethan.huret@etu.unistra.fr**
 
