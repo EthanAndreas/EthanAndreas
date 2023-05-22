@@ -3,7 +3,7 @@
 
 - 🚧 I’m currently working on the development of a **lightweigth IP-based communication between field devices**
 
-- 🏢 I’m currently learning **embedded system**, **network infrastructure** and "cybersecurity"
+- 🏢 I’m currently learning **embedded system**, **network infrastructure** and **cybersecurity**
 
 - 💻 I’m looking to collaborate on **operating system design**
 
