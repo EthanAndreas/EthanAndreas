@@ -12,9 +12,10 @@
 - 📃 Know about my experiences [https://www.linkedin.com/in/ethan-huret/](https://www.linkedin.com/in/ethan-huret/)
 
 - 🌊 I'm passionate about **oceans and surfing**, my goals are to **focus my professional path around this passion**
-<br>
 
 - 💼 Know more about me : [https://ethanandreas.github.io/Portfolio/](https://ethanandreas.github.io/Portfolio/)
+
+<br>
 
 <h3 align="left">☎️ Connect with me:</h3>
 <p align="left">
