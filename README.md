@@ -5,7 +5,7 @@
 
 - 🏢 I’m currently learning **embedded system**, **network infrastructure** and **cybersecurity**
 
-- 💻 I’m looking to collaborate on **operating system design**
+- 💻 I’m looking to collaborate on **embedded programming** for **industrial world**
 
 - 📫 How to reach me **ethanhuret27@outlook.com** or **ethan.huret@etu.unistra.fr**
 
