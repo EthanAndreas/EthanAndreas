@@ -1,5 +1,4 @@
 <h1 align="left">Hi👋</h1>
-<h3 align="left">😁 Software engineer</h3>
 
 - 🚧 I am currently developing **embedded software for flowmeters at Siemens**
 
