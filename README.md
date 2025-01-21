@@ -1,4 +1,4 @@
-<h1 align="left">Hi👋, I am Ethan Huret (Andréas is my second first name)</h1>
+<h1 align="left">Hi👋, I am Ethan Huret</h1>
 <h3 align="left">😁 Software engineer</h3>
 
 - 🚧 I am currently developing **embedded software for flowmeters at Siemens**
