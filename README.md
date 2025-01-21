@@ -1,13 +1,15 @@
-<h1 align="left">Hi👋, i'm Ethan Andréas Huret</h1>
-<h3 align="left">😁 Engineering student in network and IoT field</h3>
+<h1 align="left">Hi👋, i am Ethan Andréas Huret</h1>
+<h3 align="left">😁 Software engineer</h3>
 
-- 🚧 I’m currently working on the development of a **lightweigth IP-based communication between field devices**
+- 🚧 I am currently developing **embedded software for flowmeters at Siemens**
 
-- 🏢 I’m currently learning **embedded system**, **network infrastructure** and **cybersecurity**
+- 🏫 I graduated from the engineering school **Télécom Physique Strasbourg** in the field of **low-level programming (operating systems, compilers, and embedded systems), network, and IoT**
 
-- 💻 I’m looking to collaborate on **embedded programming** for **industrial world**
+- ⏳ I am currently learning **rust programming**
 
-- 📫 How to reach me **ethanhuret27@outlook.com** or **ethan.huret@etu.unistra.fr**
+- 💻 I am seeking collaboration opportunities in **low-level programming** and/or **embedded systems**
+
+- 📫 How to reach me **ethanhuret27@outlook.com** or **ethan.huret@siemens.com**
 
 - 📃 Know about my experiences [https://www.linkedin.com/in/ethan-huret/](https://www.linkedin.com/in/ethan-huret/)
 
