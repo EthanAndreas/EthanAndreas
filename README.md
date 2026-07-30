@@ -15,7 +15,7 @@
 <p align="left">
 🚧 I am currently developing <b>embedded software for flowmeters at Siemens</b><br>
 🏫 I graduated from the engineering school <b>Télécom Physique Strasbourg</b> in the field of <b>low-level programming (operating systems, compilers, embedded systems), networks, and IoT</b><br>
-⏳ I am currently learning <b>Rust</b>
+⏳ I am currently learning <b>Rust</b><br>
 💻 I am seeking collaboration opportunities in <b>low-level programming (embedded and system)</b> and/or <b>software programming</b><br>
 📫 How to reach me: <a href="mailto:ethanhuret27@outlook.com">ethanhuret27@outlook.com</a> or <a href="mailto:ethan.huret@siemens.com">ethan.huret@siemens.com</a><br>
 📃 Know about my experiences: <a href="https://www.linkedin.com/in/ethan-huret/" target="_blank">LinkedIn</a><br>
